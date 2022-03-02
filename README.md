@@ -28,7 +28,7 @@
 
 ## Author
 - Website Url
-- pooja saini ()
+- pooja saini (https://www.linkedin.com/posts/pooja-saini-a8239a1a4_30daysofcodechallenge-html5-css3-activity-6904736903958990849-RXSb)
 - Twitter url
 - @Pooja96490259(https://twitter.com/home)
 
